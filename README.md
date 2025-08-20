@@ -7,5 +7,7 @@
 **bold**
 # include standard.io
   int main()
-    print(f"Hello World"){
+    print(f"Hello World");
+    retuen 0
+    ;
   
