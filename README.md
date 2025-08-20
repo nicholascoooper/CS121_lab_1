@@ -6,8 +6,11 @@
 *italic*
 **bold**
 # include standard.io
-  int main()
+
+local changes
+
+  int main(){
     print(f"Hello World");
-    retuen 0
+    return 0;
     ;
-  
+  }
